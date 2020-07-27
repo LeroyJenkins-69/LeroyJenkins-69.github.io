@@ -1,11 +1,11 @@
 # Site settings
 author: Kordell Parrish
-title: 
+title: Flatiron Blog
 header-img: img/home-bg.png
 email: parrishkordell@gmail.com
 copyright_name: Kordell Parrish
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why did you decide to study Software Engineering?
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  LeroyJenkins-69
